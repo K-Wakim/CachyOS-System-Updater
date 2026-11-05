@@ -1,10 +1,13 @@
-# update_system
+# CachyOS System Updater
 
 A one-command system update script for [CachyOS](https://cachyos.org/) (and other Arch-based distros), available for both the [fish shell](https://fishshell.com/) and bash.
 
 One command updates your system packages, AUR packages, flatpaks and snaps, removes orphaned packages, cleans the package cache, and then offers to shut down or reboot. Every step can be automated or disabled, and settings are changed from the terminal rather than by editing the script.
 
 By Kamal Wakim
+
+## TODO
+I can't thing of anything left to do. If I think of something I will update
 
 ## Features
 
